@@ -274,6 +274,10 @@ img{
     border-radius: .5rem;
 }
 
+.demo{
+    font-size: var(--large-font-size);
+}
+
 /* ===== PORTFOLIO =====*/
 .portfolio{
     background-color: var(--white-color);
