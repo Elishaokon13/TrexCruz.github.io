@@ -139,11 +139,3 @@
   color: #ff5e14;
 }
 
-@media only screen and (max-width: 577px) {
-  .blog_section .owl-nav .owl-prev {
-    left: -17px !important;
-  }
-  .blog_section .owl-nav .owl-next {
-    right: -17px !important;
-  }
-}
