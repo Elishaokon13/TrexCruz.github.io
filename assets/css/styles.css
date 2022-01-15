@@ -223,7 +223,7 @@ img{
     width: 120px;
     height: 120px;
     background-color: var(--first-color);
-    border-radius: 50%;
+    border-radius: 50% !important;
     overflow: hidden;
 }
 .about__img img{
