@@ -227,7 +227,7 @@ img{
     overflow: hidden;
 }
 .about__img img{
-    border-radius: 50%;
+    border-radius: 50% !important;
     height: 90px;
     width: 90px;
 }
