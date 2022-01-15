@@ -283,6 +283,10 @@ img{
 .text-center {
   padding-top: 10%;
 }
+
+.text-center2 {
+    text-align: center;
+}
 /* ===== PORTFOLIO =====*/
 .portfolio{
     background-color: var(--white-color);
