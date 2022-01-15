@@ -228,8 +228,8 @@ img{
 }
 .about__img img{
     border-radius: 50%;
-    height: 120px;
-    width: 120px;
+    height: 90px;
+    width: 90px;
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
