@@ -263,6 +263,21 @@ img{
     border: none;
 }
 
+.obj {
+    opacity: 0;
+    transform: translateY(10%);
+    transition: all 1s ease;
+}
+
+.obj.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.asd {
+      margin-left: 1% !important;
+      margin-right: 1% !important;
+  }
 /* ===== SKILLS =====*/
 .skills__container{
     row-gap: 2rem;
