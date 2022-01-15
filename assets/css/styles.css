@@ -280,6 +280,9 @@ img{
     font-size: var(--large-font-size);
 }
 
+.text-center {
+  padding-top: 10%;
+}
 /* ===== PORTFOLIO =====*/
 .portfolio{
     background-color: var(--white-color);
