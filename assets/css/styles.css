@@ -314,6 +314,9 @@ img{
 .text-center2 {
     text-align: center;
 }
+.col-sm-6 {
+    padding-top: 10px;
+}
 /* ===== PORTFOLIO =====*/
 .portfolio{
     background-color: var(--white-color);
