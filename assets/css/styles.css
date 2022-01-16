@@ -277,7 +277,10 @@ img{
 .asd {
       margin-left: 1% !important;
       margin-right: 1% !important;
-  }
+}
+.circle-png {
+      border-radius: 50% !important;
+}
 /* ===== SKILLS =====*/
 .skills__container{
     row-gap: 2rem;
@@ -485,7 +488,7 @@ img{
         height: 200px;
     }
     .about__img img{
-        width: 165px;
+        width: 90px;
     }
 
     .skills__container{
