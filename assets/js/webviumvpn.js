@@ -14,17 +14,17 @@ items0.forEach((e1) => {
 })
 
 function download() {
-    window.location.href = ul+fo+ab;
+    window.location.href = ul + fo + ab;
 }
 
 for (var i = 0; i < vr.length; i++) {
     let a = document.createElement('a');
-    a.setAttribute('href', ul+vr[i]+ab);
+    a.setAttribute('href', ul + vr[i] + ab);
     a.classList.add('btn');
     a.classList.add('btn-outline-dark');
     a.classList.add('webvI');
     a.setAttribute('target', '_blank');
-    a.innerHTML = "Webvium VPN v"+ vr[i];
+    a.innerHTML = "Webvium VPN v" + vr[i];
     versions.appendChild(a);
 }
 
