@@ -288,6 +288,11 @@ img{
       height: 200px;
       width: 200px;
 }
+.circle-png3 {
+      border-radius: 50%;
+      height: 300px;
+      width: 300px;
+}
 /* ===== SKILLS =====*/
 .skills__container{
     row-gap: 2rem;
