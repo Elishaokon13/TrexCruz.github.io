@@ -279,7 +279,9 @@ img{
       margin-right: 1% !important;
 }
 .circle-png {
-      border-radius: 50% !important;
+      border-radius: 50%;
+      height: 60px;
+      width: 60px;
 }
 /* ===== SKILLS =====*/
 .skills__container{
