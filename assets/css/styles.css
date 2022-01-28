@@ -220,16 +220,16 @@ img{
     display: flex;
     justify-content: center;
     padding-top: 1rem;
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
     background-color: var(--first-color);
     border-radius: 50%;
     overflow: hidden;
 }
 .about__img img{
     border-radius: 50%;
-    height: 90px;
-    width: 90px;
+    height: 120px;
+    width: 1200px;
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
@@ -280,8 +280,8 @@ img{
 }
 .circle-png {
       border-radius: 50%;
-      height: 60px;
-      width: 60px;
+      height: 90px;
+      width: 90px;
 }
 /* ===== SKILLS =====*/
 .skills__container{
