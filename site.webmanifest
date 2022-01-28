@@ -1,7 +1,8 @@
 {
-    "name": "Webvium",
-    "short_name": "Webvium",
-    "description": "Lightweight, Fast, Material and Full-Featured Android Web Browser.",
+    "name": "Raidshooter Game",
+    "short_name": "Raidshooter",
+    "description": "Raid Shooter
+Space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you.",
     "dir": "ltr",
     "lang": "en-US",
     "icons": [
@@ -19,7 +20,7 @@
     "related_applications": [
       {
         "platform": "web",
-        "url": "https://mrepol742.github.io/webvium"
+        "url": "https://mrepol742.github.io/raidshooter"
       }
     ]
   }
